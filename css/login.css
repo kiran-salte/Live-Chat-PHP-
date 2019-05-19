@@ -1,0 +1,79 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 26 Sep, 2015, 12:07:33 AM
+    Author     : Administrator
+*/
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-weight: 300;
+}
+
+.header{
+    background-color: #3a5795;
+    height: 82px;
+    min-width: 980px;
+}
+
+.chat-image{
+    height: 20px;
+    padding-top: 20px;
+    float: left;
+    padding-left: 20px;
+}
+
+.Login-box{
+    background-color: #3a5795;
+    height: 62px;
+    padding-top: 20px;
+    margin-right: 75px;
+    float: right;
+}
+.Login-box input{
+    height: 30px;
+    font-size: 12px;
+    padding: 8px 10px;
+    border-radius: 2px; 
+}
+
+.main{
+    min-width: 980px;
+    background-color: whitesmoke;
+    height: auto;
+}
+
+.form{
+    height: 600px;
+    width: 525px;
+    text-align: justify;
+    padding-top: 20px;
+    margin-left: 400px;
+        
+}
+
+.form h3{
+    padding-bottom: 10px;
+    padding-top: 5px;
+    font-family: sans-serif;
+}
+
+.form p{
+    font: bold;
+    font-style: italic;
+    font-family: monospace;   
+}
+
+.form input {
+    height: 40px;
+    font-size: 18px;
+    padding: 8px 10px;
+    border-radius: 3px;
+    margin-bottom: 10px;
+    
+}
